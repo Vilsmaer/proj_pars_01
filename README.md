@@ -48,7 +48,7 @@ Automated collection, analysis, and visualization of data on plywood, OSB, and r
 
 ---
 
-## 📥 How to get started
+## How to get started
 
 ### 1. Clone the repository
 
